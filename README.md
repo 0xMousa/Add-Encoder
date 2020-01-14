@@ -5,6 +5,6 @@ ADD-Encoder is python script for encode your egghunter this script help all peop
 
 # How to use it
 
-just put your egghunter in shell.py file at shell variable
+just put your egghunter on shell.py file at shell variable
 
 then run addEncoder.py
