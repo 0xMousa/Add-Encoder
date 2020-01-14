@@ -1,6 +1,6 @@
 # Add-Encoder
 
-ADD-Encoder is python script for encode your egghunter this script help all people preparing to OSCE in NNM exploit
+ADD-Encoder is python script for encode your egghunter this script help all people preparing to OSCE specifically in HP Openview NNM 
 
 
 # How to use it
